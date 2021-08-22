@@ -7,7 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 ## I'm a Medical Student and a Frontend Developer!
 
-- 🌱 I’m currently an intern at Zuri & I4g
+- 🌱 I’m currently an intern at HNGi8
+- ☺️ A finalist of Zuri & I4g internship program
 - 👯 I’m looking to collaborate and contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess and listen music.
 
