@@ -8,10 +8,9 @@ You can click the Preview link to take a look at your changes.
 ## I'm a Medical Student and a Frontend Developer!
 
 - 🌱 Currently learning web3 development
-- ☺️ Interned at HNGi8
 - ☺️ A finalist of Zuri & I4g internship program
 - 👯 I’m looking to collaborate and contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess, table tennis, soccer and listen music.
+- ⚡ Fun fact: I love to play chess, table tennis, soccer and i love good music.
 
 ### Connect with me:
 
