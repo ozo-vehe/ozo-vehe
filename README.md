@@ -14,10 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect with me:
 
-[<img align="left" alt="Ozovehe" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ozovehe | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Ozovehe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ozovehe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ozovehe | Gmail" width="25px" src="https://img.icons8.com/color/48/null/gmail--v1.png" />][gmail]
+[<img align="left" alt="Ozovehe | Twitter" width="25px" src="https://img.icons8.com/color/48/null/twitter--v1.png" />][twitter]
+[<img align="left" alt="Ozovehe | LinkedIn" width="25px" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png" />][linkedin]
 
 <br />
 
