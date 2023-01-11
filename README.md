@@ -2,15 +2,33 @@
 ozo-vehe/ozo-vehe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# Hi there, I'm John Obansa [Ozovehe][website] 👋
-
-## Frontend Developer, Smart Contract Developer!
-
+# Hi there, I'm John Obansa [Ozovehe][website] 👋 <br />
+### Frontend Developer, Smart Contract Developer!
 - 🌱 Currently learning web3 development
 - ☺️ A finalist of Zuri & I4g internship program
 - 👯 I’m looking to collaborate and contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess, table tennis, soccer and i love good music.
+---
+# Projects
+## Vue Projects
+#### UX/UI Designer Portfolio
+- GitHub Repo: [Ayeni Obatobi](https://github.com/ozo-vehe/ayeni)
+- Live Link: https://obatobiayeni.web.app/
+
+---
+## React Projects
+#### JETVerified
+- GitHub Repo: [JETVerified](https://github.com/ozo-vehe/jetverify)
+- Live Link: https://jetverify.web.app/
+
+
+---
+## Web3 Projects
+#### Anime Cards Marketplace
+- GitHub Repo: [Anime Cards](https://github.com/ozo-vehe/anime-cards)
+- Live Link: https://ozo-vehe.github.io/anime-cards/
+
+---
 
 ## Connect with me:
 
@@ -33,27 +51,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 [<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">](https://www.microsoft.com/en-us/windows)
 
----
-## Vue Projects
-#### UX/UI Designer Portfolio
-- GitHub Repo: [Ayeni Obatobi](https://github.com/ozo-vehe/ayeni)
-- Live Link: https://obatobiayeni.web.app/
 
----
-## React Projects
-#### JETVerified
-- GitHub Repo: [JETVerified](https://github.com/ozo-vehe/jetverify)
-- Live Link: https://jetverify.web.app/
-
-
----
-## Web3 Projects
-#### Anime Cards Marketplace
-- GitHub Repo: [Anime Cards](https://github.com/ozo-vehe/anime-cards)
-- Live Link: https://ozo-vehe.github.io/anime-cards/
-
-
----
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozo-vehe)](https://github.com/ozo-vehe/github-readme-stats)
 
