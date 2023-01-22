@@ -62,9 +62,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[website]: https://obansajohn-1a392.web.app/
 [twitter]: https://twitter.com/__ozovehe
 [linkedin]: https://www.linkedin.com/in/ozovehe
 [gmail]: https://johnnie.vehe@gmail.com
-
-
