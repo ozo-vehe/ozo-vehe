@@ -2,7 +2,7 @@
 ozo-vehe/ozo-vehe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there, I'm John Obansa [Ozovehe][website] 👋 <br />
+# Hi there, I'm John Ozovehe Obansa 👋 <br />
 ### Frontend Developer, Smart Contract Developer!
 - 🌱 Currently learning web3 development
 - ☺️ A finalist of Zuri & I4g internship program
