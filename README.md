@@ -15,10 +15,6 @@ You can click the Preview link to take a look at your changes.
 - GitHub Repo: [Ayeni Obatobi](https://github.com/ozo-vehe/ayeni)
 - Live Link: https://obatobiayeni.web.app/
 
-#### Baker Bakery
-- GitHub Repo: [baker](https://github.com/ozo-vehe/baker)
-- Live Link: loading...
-
 ---
 ## React Projects
 #### JETVerified
