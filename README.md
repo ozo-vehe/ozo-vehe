@@ -32,6 +32,10 @@ You can click the Preview link to take a look at your changes.
 - GitHub Repo: [Anime Cards](https://github.com/ozo-vehe/anime-cards)
 - Live Link: https://ozo-vehe.github.io/anime-cards/
 
+
+#### Vue.js Whitelist dApp
+- GitHub Repo: [Vue.js whitelist dApp](https://github.com/ozo-vehe/vue-celo-whitelist)
+- Live Link: https://vue-celo-whitelist.vercel.app/
 ---
 
 ## Connect with me:
