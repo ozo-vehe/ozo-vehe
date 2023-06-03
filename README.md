@@ -13,7 +13,11 @@ You can click the Preview link to take a look at your changes.
 ## Vue Projects
 #### UX/UI Designer Portfolio
 - GitHub Repo: [Ayeni Obatobi](https://github.com/ozo-vehe/ayeni)
-- Live Link: https://obatobiayeni.web.app/
+- Live Link: [Ayeni Obatobi](https://obatobiayeni.web.app/)
+
+#### Aroma
+- GitHub Repo: [Aroma](https://github.com/ozo-vehe/aroma)
+- Live Link: [Aroma](https://aroma-two.vercel.app/)
 
 ---
 ## React Projects
