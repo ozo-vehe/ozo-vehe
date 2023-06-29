@@ -2,10 +2,20 @@
 ozo-vehe/ozo-vehe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there, I'm John Ozovehe Obansa 👋 <br />
-### Frontend Developer, Smart Contract Developer!
-- 🌱 Currently learning web3 development
-- ☺️ A finalist of Zuri & I4g internship program
+# Hi there, I'm John Ozovehe Obansa 👋
+### Frontend Engineer, Smart Contract Developer!
+---
+A passionate web developer aiming to build amazing experience for people all over the world by building and maintaining responsive website applications with the aid of product research and modern development tools.
+
+As a frontend engineer with half a decade of experience, my objective is to utilize my skills and expertise to focus on product usability and scalability and a better user experience.
+
+I have a strong working knowledge of HTML, CSS, JavaScript, and other web development technologies like React, Vue and Tailwind CSS.
+
+I am passionate about creating visually appealing and functional interfaces that enhance user experience. I am always eager to learn and adapt to new technologies and strive to deliver quality work on time.
+
+---
+- 🌱 Improving my knowledge about web3 development
+- Student of [AltSchool Africa](https://www.altschoolafrica.com/)
 - 👯 I’m looking to collaborate and contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess, table tennis, soccer and i love good music.
 ---
