@@ -5,13 +5,13 @@ You can click the Preview link to take a look at your changes.
 # Hi there, I'm John Ozovehe Obansa 👋
 ### Frontend Engineer, Smart Contract Developer!
 ---
-A passionate web developer aiming to build amazing experience for people all over the world by building and maintaining responsive website applications with the aid of product research and modern development tools.
+A passionate web developer aiming to create amazing experience for people all over the world through building and maintaining responsive website applications with the aid of product research and modern development tools.
 
 As a frontend engineer with half a decade of experience, my objective is to utilize my skills and expertise to focus on product usability and scalability and a better user experience.
 
-I have a strong working knowledge of HTML, CSS, JavaScript, and other web development technologies like React, Vue and Tailwind CSS.
+I have a strong working knowledge of HTML, CSS, JavaScript, and web development technologies like React, Vue and Tailwind CSS.
 
-I am passionate about creating visually appealing and functional interfaces that enhance user experience. I am always eager to learn and adapt to new technologies and strive to deliver quality work on time.
+I am very enthusiastic about creating visually appealing and functional interfaces that enhance user experience. I am always eager to learn and adapt to new technologies and strive to deliver quality work on time.
 
 ---
 - 🌱 Improving my knowledge about web3 development
