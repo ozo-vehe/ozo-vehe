@@ -25,9 +25,9 @@ I am very enthusiastic about creating visually appealing and functional interfac
 - GitHub Repo: [Ayeni Obatobi](https://github.com/ozo-vehe/ayeni)
 - Live Link: [Ayeni Obatobi](https://obatobiayeni.web.app/)
 
-#### Aroma
-- GitHub Repo: [Aroma](https://github.com/ozo-vehe/aroma)
-- Live Link: [Aroma](https://aroma-two.vercel.app/)
+#### Studdy
+- GitHub Repo: [Studdy](https://github.com/ozo-vehe/studdy)
+- Live Link: [Studdy](https://studdy-six.vercel.app/)
 
 ---
 ## React Projects
@@ -35,6 +35,9 @@ I am very enthusiastic about creating visually appealing and functional interfac
 - GitHub Repo: [JETVerified](https://github.com/ozo-vehe/jetverify)
 - Live Link: https://jetverify.web.app/
 
+#### Weather App
+- GitHub Repo: [Weather App](https://github.com/ozo-vehe/react-weather-app)
+- Live Link: [Weather App](https://react-weather-app-ozo-vehe.vercel.app/)
 
 ---
 ## Web3 Projects
