@@ -78,4 +78,4 @@ I am very enthusiastic about creating visually appealing and functional interfac
 
 [twitter]: https://twitter.com/__ozovehe
 [linkedin]: https://www.linkedin.com/in/ozovehe
-[gmail]: https://johnnie.vehe@gmail.com
+[gmail]: mailto:https://johnnie.vehe@gmail.com
