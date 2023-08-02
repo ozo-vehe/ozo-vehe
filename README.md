@@ -74,9 +74,6 @@ I am very enthusiastic about creating visually appealing and functional interfac
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozo-vehe)](https://github.com/ozo-vehe/github-readme-stats)
-
-
 ---
 
 [twitter]: https://twitter.com/__ozovehe
